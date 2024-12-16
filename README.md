@@ -1,4 +1,4 @@
-   # Makeup Simulation Game: Target Audience Analysis
+     # Makeup Simulation Game: Target Audience Analysis
    
 This document outlines the target audience for the **Makeup Simulation Game** designed to allow users to experiment with makeup looks virtually. Below is a detailed breakdown of the audience, including game features, language support, and psychographics.
 
